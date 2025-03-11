@@ -8,3 +8,4 @@
 nyanmisaka/jellyfin:latest
 portainer/portainer-ce:latest
 gotson/komga:latest
+nextcloud/all-in-one:latest
