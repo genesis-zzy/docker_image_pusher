@@ -10,3 +10,4 @@ portainer/portainer-ce:latest
 gotson/komga:latest
 nextcloud/all-in-one:latest
 jeessy/ddns-go:latest
+
